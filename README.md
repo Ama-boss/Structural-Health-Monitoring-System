@@ -1,8 +1,6 @@
 # Structural-Health-Monitoring-System
 An ESP32-based structural health monitoring prototype using an MPU6050 sensor, hysteresis, and Bluetooth communication.
 
-# Structural Health Monitoring System
-
 ## Overview
 
 The Structural Health Monitoring System is a prototype developed using an ESP32 and an MPU6050 motion sensor to monitor movement and detect conditions that exceed predefined thresholds.
@@ -139,7 +137,7 @@ Through this project, I gained practical experience with:
 
 A video demonstrating the completed prototype is included in this repository.
 
-**[▶ View Project Demonstration](Videos/project-demo.mp4)**
+**[▶ View Project Demonstration](Project-demo.mp4)**
 
 ---
 
